@@ -24,3 +24,8 @@ missing a sale, you should stock slightly LESS than average.
 Historical Average Daily Sale: 33.0 kg
 👉 OPTIMAL ORDER QUANTITY FOR TOMORROW: 31 kg 👈
 ==================================================
+
+```
+
+## Demo Video
+Watch the 3-minute screen recording of the tool running here: [https://drive.google.com/file/d/1JRS4AlrTxvSXC1Al6N8_qmBBGfMNEgMy/view?usp=sharing](https://drive.google.com/file/d/1JRS4AlrTxvSXC1Al6N8_qmBBGfMNEgMy/view?usp=sharing)
